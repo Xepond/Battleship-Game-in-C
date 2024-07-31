@@ -1,4 +1,4 @@
-# Battleship(Amiral Battı)-Game-in-C
+# Battleship(Amiral Batti)-Game-in-C
 EN:
 It is the "Battleship Game" project i made for year 1 semester 1 "Introduction to Programming" lecture.
 
